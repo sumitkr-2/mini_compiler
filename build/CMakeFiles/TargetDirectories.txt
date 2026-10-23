@@ -1,0 +1,3 @@
+/Users/sumitkumar/Desktop/mini_compiler/build/CMakeFiles/minic.dir
+/Users/sumitkumar/Desktop/mini_compiler/build/CMakeFiles/edit_cache.dir
+/Users/sumitkumar/Desktop/mini_compiler/build/CMakeFiles/rebuild_cache.dir
